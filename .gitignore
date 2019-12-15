@@ -1,0 +1,4 @@
+sfml
+assets
+*.dll
+!Release/*.dll

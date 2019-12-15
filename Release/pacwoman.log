@@ -1,0 +1,21 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(434,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  Animator.cpp
+  Bonus.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Character.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Dot.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Game.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  GameState.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Ghost.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Maze.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  PacWoman.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  main.cpp
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+D:\vs\VC\Tools\MSVC\14.23.28105\include\crtdefs.h(10,10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
