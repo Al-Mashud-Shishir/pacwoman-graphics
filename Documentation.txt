@@ -1,0 +1,5 @@
+1.Go inside the Release folder
+2.Double click on the .exe file
+3.Game will be started
+4.press I then S to start the game
+5. press left,right,up,down arrows to move the player
